@@ -3,4 +3,5 @@ The second script will show the list of of all files that do not start with spec
 The third script changes the working directory to the user’s home directory.
 The fourth script displays content of the current directory in long list
 The fifth displays current directory contents, including hidden files
-The 6th Display current directory contents.Long format with user and group IDs display 
+The 6th Display current directory contents.Long format with user and group IDs display
+The 7th displays current creates directories  
